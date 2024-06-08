@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellfighter", "Hellfighter\Hellfighter.csproj", "{95D99E03-FB0A-4BEB-9D8C-4C968110C19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D99E03-FB0A-4BEB-9D8C-4C968110C19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D99E03-FB0A-4BEB-9D8C-4C968110C19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D99E03-FB0A-4BEB-9D8C-4C968110C19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D99E03-FB0A-4BEB-9D8C-4C968110C19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227811C1-DB7F-4D61-9BAE-09FD828A9F7F}
+	EndGlobalSection
+EndGlobal
